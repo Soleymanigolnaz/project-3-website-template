@@ -1,7 +1,7 @@
 # project-3-website-template
 project 3-website-template - with html & css
 **The Book Store can help customers check new books, check their prices, read free books online.**
-- [Demo Project](https:///)
+- [Demo Project](https://soleymanigolnaz.github.io/project-3-website-template/)
 
 - Developed by Golnaz Soleymani Mood
 
